@@ -5,7 +5,7 @@ import Card from './Components/Card';
 function App() {
   return (
     <div className="App">
-        <Card name="Alex" surname="Rossi" age={["Hello", "World"]} />
+      <Card name="Alex" surname="Rossi" age={["Hello", " World"]} />
     </div>
   );
 }
